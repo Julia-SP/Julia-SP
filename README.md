@@ -58,7 +58,7 @@ Aplicación de escritorio multiplataforma para análisis de datos geoespaciales,
 
 ## 📬 ¡Conectemos!
 
-📧 juliasubiza@gmail.com  
+📧 holajuliasubiza@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/juliasubiza)  
 🎨 [Behance](https://behance.net/julia_subiza)  
 🐙 [GitHub](https://github.com/Julia-SP)
